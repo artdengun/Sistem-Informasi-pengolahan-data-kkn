@@ -1,4 +1,4 @@
-package com.kpaydeveloper.sistem.informasi.pengolahan.data.kkn;
+package com.kpaydeveloper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
